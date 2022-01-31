@@ -6,4 +6,4 @@ Some new experiments to share
 [Twente Education Model - TOM](https://www.utwente.nl/en/education/about-our-education/) at University of Twente  
 
 
-[e-Governance](iitjammu.ac.in/eg) at Higher Education Institute in India   
+[e-Governance](https://iitjammu.ac.in/eg) at Higher Education Institute in India   
